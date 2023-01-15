@@ -1,5 +1,4 @@
 import sys, pygame
-import itertools
 import Qstate as Q
 
 running = True
