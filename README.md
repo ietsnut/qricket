@@ -1,4 +1,4 @@
-# qricket
+# Qricket
 A visual step-by-step desktop quantum circuit simulator experiment using matrix transformations.
 
 ![State 1](https://github.com/ietsnut/qricket/blob/main/1_screenshot.png?raw=true)
